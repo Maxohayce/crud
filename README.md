@@ -14,6 +14,11 @@ A REST API for creating, reading, updating and deleting data
 - [Create React App](#create-react-app)
 
 ## Project Info
+--- routes
+get request to fetch all data
+post request to create a new data schema
+put request to update a single data schema
+delete request to delete a single data schema
 
 ### App Architecture
 
